@@ -1,0 +1,73 @@
+/*Emily Oneline Webstie CSS File */
+
+body { background-color: #D3D5D4; }
+
+h1 { text-align: center; }
+
+h2 {display: inline-block;}
+
+p { text-align: center; }
+
+p#book {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+
+
+span {
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 4px;
+    
+}
+
+
+div {
+  border: 1px;
+  margin-top: 40px;
+  margin-bottom: 80px;
+  margin-right: 80px;
+  margin-left: 80px;
+  background-color: #D3D5D4;
+}
+
+
+li { display: inline-block; margin: 0 28px; }
+
+
+
+
+
+
+/* hidden round border 
+p.round2 {
+  border: 2px solid white;
+  border-radius: 8px;
+  padding: 5px; }
+
+/* hidden border 
+p.hidden {border-style: hidden;}
+
+
+/* hidden block elements
+<style>
+a {
+  display: block;
+}
+</style>
+
+* {
+  text-align: center;
+ 
+}
+
+
+
+
+
